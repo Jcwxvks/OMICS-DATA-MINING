@@ -1,0 +1,13 @@
+{
+	"n_targets": 149419,
+	"n_bootstraps": 0,
+	"n_processed": 33722393,
+	"n_pseudoaligned": 29694129,
+	"n_unique": 7628738,
+	"p_pseudoaligned": 88.1,
+	"p_unique": 22.6,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Tue Aug 16 11:49:57 2022",
+	"call": "kallisto quant -i GRCm39_gencode_m30_kallisto_index -o kallisto_run_SRR9188601 -t 10 --single -l 200 -s 20 SRR9188601.fastq.gz"
+}
